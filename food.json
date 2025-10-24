@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Jollibee, Manolo Fortich, Bukidnon",
+    "lat": 8.367363,
+    "lng": 124.865279,
+    "description": "Bida ang saya Yipee",
+    "image": "jabi.jpg"
+  },
+  {
+    "name": "Minue Burger, Manolo Fortich, Bukidnon",
+    "lat": 8.367543,
+    "lng": 124.864855,
+    "description": "Cheap burger",
+    "image": "MB.webp"
+  },
+  {
+    "name":"Zai Sugba, Manolo Fortich, Bukidnon",
+    "lat":8.364213,
+    "lng":124.865359,
+    "description":"Pinaka lami",
+    "image":"Laroco.jpg"
+  }
+]
